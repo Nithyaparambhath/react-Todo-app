@@ -1,0 +1,20 @@
+.todoitems{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.todoitems img{
+    width:20px;
+    cursor: pointer;
+}
+.todoitemd-container{
+    display: flex;
+   
+    align-items: center;
+}
+.todoitemd-container img{
+    width:20px;
+}
+.todoitems-text{
+    margin-left: 10px;
+}
